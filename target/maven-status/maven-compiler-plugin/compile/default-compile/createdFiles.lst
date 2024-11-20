@@ -1,0 +1,11 @@
+com\springsecurity\controller\HiController.class
+com\springsecurity\service\MyUserDetails.class
+com\springsecurity\entity\Student.class
+com\springsecurity\config\SecurityConfig.class
+com\springsecurity\controller\ByeController.class
+com\springsecurity\entity\MyUserDetailsService.class
+com\springsecurity\SpringSecurityApplication.class
+com\springsecurity\entity\Users.class
+com\springsecurity\controller\StudentController.class
+com\springsecurity\controller\CSRFController.class
+com\springsecurity\repository\MyUserRepo.class
